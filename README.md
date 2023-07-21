@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# 我的博客项目
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+使用react 框架进行开发
 
 ## Available Scripts
 
